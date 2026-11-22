@@ -1,0 +1,26 @@
+name: Revisar enlaces de carteles
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 7 * * 1'
+permissions:
+  contents: write
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Comprobar imágenes
+        run: python scripts/verificar_carteles.py
+      - name: Guardar informe sin modificar películas
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add revision_carteles.json revision_carteles.csv
+          if ! git diff --cached --quiet; then
+            git commit -m 'Revisión automatizada de enlaces de carteles'
+            git push
+          fi
