@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 0,
+    "title": "EL PADRINO",
+    "country": "USA",
+    "year": 1972,
+    "director": "F. Ford Coppola",
+    "actors": "Marlon Brando, Al Pacino",
+    "poster": "https://kolorofon.departament.org/wp-content/uploads/2024/08/Plakaty-filmowe-klasyka-kina-Ojciec-chrzestny-1972-The-Godfather-Czarna-wersja-Plakat-wysokiej-jakosci-8K--scaled-scaled.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Gánsteres"
+    ],
+    "synopsis": "En la Nueva York de los años cuarenta, un patriarca mafioso trata de proteger su imperio mientras su hijo menor se ve arrastrado hacia un mundo de lealtades, traiciones y violencia.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-padrino",
+    "review": ""
+  },
+  {
+    "id": 1,
+    "title": "PULP FICTION",
+    "country": "USA",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "actors": "John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",
+    "poster": "https://static.posters.cz/image/750/1288.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Historias cruzadas de sicarios, un boxeador, una pareja de atracadores y la esposa de un gánster, narradas con humor negro y una cronología que juega con el espectador.",
+    "watch": "https://www.justwatch.com/es/pelicula/pulp-fiction",
+    "review": "https://balasyestrellas.blogspot.com/2024/05/tarantino-el-joven-patetico-y-criminal.html"
+  },
+  {
+    "id": 2,
+    "title": "BULLET TRAIN",
+    "country": "USA",
+    "year": 2022,
+    "director": "David Leitch",
+    "actors": "Brad Pitt, Joey King",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/08/Bullet_train_filme.jpg/250px-Bullet_train_filme.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Un asesino a sueldo viaja en un tren bala japonés para cumplir una misión aparentemente sencilla. Pronto descubre que otros criminales persiguen objetivos incompatibles.",
+    "watch": "https://www.justwatch.com/es/pelicula/bullet-train",
+    "review": ""
+  },
+  {
+    "id": 3,
+    "title": "The Last Stop in Yuma County",
+    "country": "USA",
+    "year": 2023,
+    "director": "Francis Galluppi",
+    "actors": "Jim Cummings, Jocelin Donahue, Richard Brake, Sierra McCormick",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmVjZGZjOGItMjIxOS00MDI2LWEyNmMtMDVjZjQ1NmUzM2M3XkEyXkFqcGc@._V1_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "atraco"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "En una aislada gasolinera de Arizona, varios desconocidos quedan atrapados durante el robo de un banco. La espera se convierte en un juego de amenazas y decisiones desesperadas.",
+    "watch": "https://www.justwatch.com/es/pelicula/the-last-stop-in-yuma-county",
+    "review": ""
+  },
+  {
+    "id": 4,
+    "title": "HAMPA DORADA",
+    "country": "USA",
+    "year": 1931,
+    "director": "Mervyn LeRoy",
+    "actors": "Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell",
+    "poster": "https://masqcine.com/wp-content/uploads/Hampa_dorada.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Cine negro clásico"
+    ],
+    "synopsis": "Un pequeño delincuente asciende hasta convertirse en jefe del crimen organizado de Chicago, mientras su ambición amenaza con destruirlo todo.",
+    "watch": "https://www.justwatch.com/es/pelicula/hampa-dorada",
+    "review": ""
+  },
+  {
+    "id": 5,
+    "title": "EL ENEMIGO PÚBLICO",
+    "country": "USA",
+    "year": 1931,
+    "director": "William A. Wellman",
+    "actors": "James Cagney, Jean Harlow",
+    "poster": "https://www.filmsite.org/posters/publicenemy2.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Cine negro clásico"
+    ],
+    "synopsis": "Dos jóvenes de los barrios bajos de Chicago se abren camino en el contrabando durante la Ley Seca. El éxito criminal acaba poniendo a prueba su amistad.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-enemigo-publico",
+    "review": ""
+  },
+  {
+    "id": 6,
+    "title": "M, EL VAMPIRO DE DÜSSELDORF",
+    "country": "Alemania",
+    "year": 1931,
+    "director": "Fritz Lang",
+    "actors": "Peter Lorre, Otto Wernicke",
+    "poster": "https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/0/0/8421394539006/tsp20121213111210/M-el-vampiro-de-Dueldorf.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Policíaco"
+    ],
+    "synopsis": "La policía busca a un asesino de niñas en Berlín, mientras las propias organizaciones criminales organizan una cacería para terminar con el caos que provoca.",
+    "watch": "https://www.justwatch.com/es/pelicula/m-el-vampiro-de-dusseldorf",
+    "review": ""
+  },
+  {
+    "id": 7,
+    "title": "SCARFACE, EL TERROR DEL HAMPA",
+    "country": "USA",
+    "year": 1932,
+    "director": "Howard Hawks",
+    "actors": "Paul Muni, Ann Dvorak",
+    "poster": "https://pics.filmaffinity.com/scarface-577051853-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Cine negro clásico"
+    ],
+    "synopsis": "Un gánster despiadado lucha por controlar el hampa de Chicago y descubre que la ambición y la paranoia pueden ser más mortíferas que sus rivales.",
+    "watch": "https://www.justwatch.com/es/pelicula/scarface-el-terror-del-hampa",
+    "review": ""
+  },
+  {
+    "id": 8,
+    "title": "EL HALCÓN MALTÉS",
+    "country": "USA",
+    "year": 1941,
+    "director": "John Huston",
+    "actors": "Humphrey Bogart, Mary Astor, Peter Lorre",
+    "poster": "https://es.web.img2.acsta.net/pictures/14/03/28/11/32/037353.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Policíaco"
+    ],
+    "synopsis": "Un detective privado de San Francisco recibe un encargo que desemboca en asesinatos, dobles juegos y la búsqueda de una misteriosa estatuilla.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-halcon-maltes",
+    "review": ""
+  },
+  {
+    "id": 9,
+    "title": "PERDICIÓN",
+    "country": "USA",
+    "year": 1944,
+    "director": "Billy Wilder",
+    "actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+    "poster": "https://m.media-amazon.com/images/I/714kvaQTnHL._AC_UF894,1000_QL80_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un agente de seguros y una mujer casada planean asesinar al marido de ella para cobrar una póliza. Una intriga de deseo y codicia donde casi nada sale según lo previsto.",
+    "watch": "https://www.justwatch.com/es/pelicula/perdicion",
+    "review": ""
+  },
+  {
+    "id": 10,
+    "title": "LA CIUDAD DESNUDA",
+    "country": "USA",
+    "year": 1948,
+    "director": "Jules Dassin",
+    "actors": "Barry Fitzgerald, Dorothy Hart, Howard Duff",
+    "poster": "https://pics.filmaffinity.com/the_naked_city-240408651-mmed.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Policíaco"
+    ],
+    "synopsis": "Dos detectives investigan el asesinato de una joven en las calles de Nueva York. El trabajo policial convierte la propia ciudad en protagonista.",
+    "watch": "https://watch.plex.tv/es/watch/movie/the-naked-city?uri=provider%3A%2F%2Ftv.plex.provider.vod%2Flibrary%2Fmetadata%2F5d776845103a2d001f56b9fc&autoplay=1",
+    "review": ""
+  },
+  {
+    "id": 11,
+    "title": "EN UN LUGAR SOLITARIO",
+    "country": "USA",
+    "year": 1950,
+    "director": "Nicholas Ray",
+    "actors": "Humphrey Bogart, G. Grahame",
+    "poster": "https://elgabinetedeldoctormabuse.com/wp-content/uploads/2013/09/un-lugar-solitario.jpg?w=640",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un guionista de Hollywood, temperamental y sospechoso de asesinato, inicia una relación amorosa que se va ensombreciendo por los celos y la desconfianza.",
+    "watch": "https://www.justwatch.com/es/pelicula/en-un-lugar-solitario",
+    "review": ""
+  },
+  {
+    "id": 12,
+    "title": "LA JUNGLA DE ASFALTO",
+    "country": "USA",
+    "year": 1950,
+    "director": "John Huston",
+    "actors": "Sterling Hayden, Louis Calhern, Jean Hagen, Marilyn Monroe",
+    "poster": "https://pics.filmaffinity.com/the_asphalt_jungle-967610208-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "atraco"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Gánsteres"
+    ],
+    "synopsis": "Una banda prepara el atraco a una joyería con precisión milimétrica, pero los intereses enfrentados y los errores humanos amenazan con arruinar el golpe.",
+    "watch": "https://www.justwatch.com/es/pelicula/la-jungla-de-asfalto",
+    "review": ""
+  },
+  {
+    "id": 13,
+    "title": "MUERTE DE UN CICLISTA",
+    "country": "España",
+    "year": 1955,
+    "director": "Juan Antonio Bardem",
+    "actors": "Lucía Bosé, Alberto Closas",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIwNTFlNTItYTEwYy00YWI3LTkxMTMtY2M0YmNmOGY3ZGZjXkEyXkFqcGc@._V1_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "conspiracion"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un profesor universitario y una mujer de clase acomodada atropellan a un ciclista y huyen. La culpa y el miedo a ser descubiertos revelan la hipocresía de su entorno.",
+    "watch": "https://www.justwatch.com/es/pelicula/death-of-a-cyclist",
+    "review": ""
+  },
+  {
+    "id": 14,
+    "title": "ATRACO PERFECTO",
+    "country": "USA",
+    "year": 1956,
+    "director": "Stanley Kubrick",
+    "actors": "Sterling Hayden, Coleen Gray, Vince Edwards",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtJM8Xj1BxiwsGSgma49pg1n-3aJmK8HmVQ&s",
+    "posterAlternativo": "",
+    "crime": [
+      "atraco"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un delincuente organiza el atraco a un hipódromo. El plan parece perfecto, pero las debilidades de sus colaboradores ponen en peligro toda la operación.",
+    "watch": "https://www.justwatch.com/es/pelicula/atraco-perfecto",
+    "review": ""
+  },
+  {
+    "id": 15,
+    "title": "LA NOCHE DEL CAZADOR",
+    "country": "USA",
+    "year": 1955,
+    "director": "Charles Laughton",
+    "actors": "Robert Mitchum, Evelyn Varden, Shelley Winters",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoKus50TVlBlSFlo_3bwB-0oNL35PsZH4bg&s",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un predicador fanático persigue a dos niños para apoderarse del dinero que ocultó su padre. Una pesadilla de inocencia amenazada y maldad disfrazada de virtud.",
+    "watch": "https://www.justwatch.com/es/pelicula/la-noche-del-cazador",
+    "review": ""
+  },
+  {
+    "id": 16,
+    "title": "SED DE MAL",
+    "country": "USA",
+    "year": 1958,
+    "director": "Orson Welles",
+    "actors": "Charlton Heston, O. Welles, Janet Leigh, Marlene Dietrich",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/0/09/Touch_of_Evil_%281958_poster%29.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Policíaco"
+    ],
+    "synopsis": "Un investigador mexicano se enfrenta a un capitán de policía estadounidense corrupto durante una pesquisa marcada por la violencia y la manipulación de las pruebas.",
+    "watch": "https://www.justwatch.com/es/pelicula/sed-de-mal",
+    "review": ""
+  },
+  {
+    "id": 17,
+    "title": "PSICOSIS",
+    "country": "USA",
+    "year": 1960,
+    "director": "Alfred Hitchcock",
+    "actors": "Anthony Perkins, Janet Leigh, John Gavin, Vera Miles",
+    "poster": "https://m.media-amazon.com/images/I/71X1flEKNdL._AC_UF894,1000_QL80_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Una joven huye tras robar dinero y se refugia en un motel aislado, donde conoce a un tímido encargado y a una presencia inquietante.",
+    "watch": "https://www.justwatch.com/es/pelicula/psicosis",
+    "review": ""
+  },
+  {
+    "id": 18,
+    "title": "A QUEMARROPA",
+    "country": "USA",
+    "year": 1967,
+    "director": "John Boorman",
+    "actors": "Lee Marvin, Angie Dickinson",
+    "poster": "https://es.web.img3.acsta.net/pictures/210/610/21061084_20131126155146818.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "venganza"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un hombre dado por muerto vuelve para recuperar el dinero que le arrebataron sus antiguos socios. Su implacable venganza recorre los bajos fondos de Los Ángeles.",
+    "watch": "https://www.justwatch.com/es/pelicula/a-quemarropa",
+    "review": ""
+  },
+  {
+    "id": 19,
+    "title": "EL SILENCIO DE UN HOMBRE",
+    "country": "Francia",
+    "year": 1967,
+    "director": "Jean-Pierre Melville",
+    "actors": "Alain Delon, Nathalie Delon, François Perier",
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c2c00f97df9c678a15205f05b2030ee77eb2b953ad4e30601ef8bef55cb3b89d.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Gánsteres"
+    ],
+    "synopsis": "Un asesino a sueldo metódico y solitario acepta encargos sin hacer preguntas. Cuando una operación se complica, su estricta disciplina se convierte en su única defensa.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-silencio-de-un-hombre-el-samurai",
+    "review": ""
+  },
+  {
+    "id": 20,
+    "title": "BULLITT",
+    "country": "USA",
+    "year": 1968,
+    "director": "Peter Yates",
+    "actors": "Steve McQueen, Jacqueline Bisset",
+    "poster": "https://pics.filmaffinity.com/Bullitt-157088363-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Policíaco",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un policía de San Francisco investiga el asesinato de un testigo protegido mientras trata de descubrir quién mueve los hilos del crimen.",
+    "watch": "https://www.justwatch.com/es/pelicula/bullitt",
+    "review": ""
+  },
+  {
+    "id": 21,
+    "title": "LA JUNGLA HUMANA",
+    "country": "USA",
+    "year": 1968,
+    "director": "Don Siegel",
+    "actors": "Clint Eastwood",
+    "poster": "https://decine21.com/img/upload/obras/la-jungla-humana-3967/la-jungla-humana-3967-c.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "venganza"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Policíaco",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un ayudante del sheriff de Arizona viaja a Nueva York para extraditar a un detenido que acaba escapándose. Sus métodos chocan con los de la policía neoyorquina.",
+    "watch": "https://www.justwatch.com/es/pelicula/la-jungla-humana",
+    "review": ""
+  },
+  {
+    "id": 22,
+    "title": "INVESTIGACIÓN SOBRE UN CIUDADANO LIBRE DE TODA SOSPECHA",
+    "country": "Italia",
+    "year": 1970,
+    "director": "Elio Petri",
+    "actors": "Gian Maria Volonté",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhjMGJhZmMtZDcyNi00YjE0LWJkNmQtMTAzZTAxNmQ1N2U5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Policíaco",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un alto funcionario policial comete un asesinato convencido de que su posición lo hace intocable. Después deja pistas deliberadas para demostrar su impunidad.",
+    "watch": "https://www.justwatch.com/es/pelicula/investigacion-sobre-un-ciudadano-libre-de-toda-sospecha",
+    "review": ""
+  },
+  {
+    "id": 23,
+    "title": "LA JAURÍA HUMANA",
+    "country": "USA",
+    "year": 1966,
+    "director": "Arthur Penn",
+    "actors": "Marlon Brando, Robert Redford, Jane Fonda",
+    "poster": "https://es.web.img3.acsta.net/pictures/14/02/06/13/23/203756.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "caza"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Un fugitivo encuentra refugio en una pequeña localidad sureña y provoca la histeria colectiva. El sheriff intenta impedir que una turba haga justicia por su mano.",
+    "watch": "https://www.justwatch.com/es/pelicula/la-jauria-humana",
+    "review": ""
+  },
+  {
+    "id": 24,
+    "title": "HARRY EL SUCIO",
+    "country": "USA",
+    "year": 1971,
+    "director": "Don Siegel",
+    "actors": "Clint Eastwood",
+    "poster": "https://es.web.img2.acsta.net/pictures/210/589/21058908_20131119111719452.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Policíaco",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un inspector de San Francisco persigue a un asesino que amenaza a la ciudad. Sus métodos expeditivos chocan con las reglas de la investigación policial.",
+    "watch": "https://www.justwatch.com/es/pelicula/harry-el-sucio",
+    "review": ""
+  },
+  {
+    "id": 25,
+    "title": "THE FRENCH CONNECTION",
+    "country": "USA",
+    "year": 1971,
+    "director": "William Friedkin",
+    "actors": "Gene Hackman, Roy Scheider",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/frnchconnection_d4fbbbda.jpeg?region=0%2C0%2C584%2C876",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Policíaco",
+      "Gánsteres"
+    ],
+    "synopsis": "Dos detectives neoyorquinos investigan una red internacional de tráfico de heroína. La persecución se convierte en una obsesión peligrosa.",
+    "watch": "https://www.justwatch.com/es/pelicula/the-french-connection-contra-el-imperio-de-la-droga",
+    "review": ""
+  },
+  {
+    "id": 26,
+    "title": "SERPICO",
+    "country": "USA",
+    "year": 1973,
+    "director": "Sidney Lumet",
+    "actors": "Al Pacino",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgb__5bADThOVoeuEzInAiD0rAALa__oUbPg&s",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Policíaco"
+    ],
+    "synopsis": "Un policía de Nueva York se niega a aceptar los sobornos habituales de sus compañeros y denuncia la corrupción, enfrentándose al aislamiento y las amenazas.",
+    "watch": "https://www.justwatch.com/es/pelicula/serpico",
+    "review": ""
+  },
+  {
+    "id": 27,
+    "title": "CHINATOWN",
+    "country": "USA",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "actors": "Jack Nicholson, Faye Dunaway",
+    "poster": "https://m.media-amazon.com/images/I/91IuEDS4sWL._AC_UF894,1000_QL80_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "conspiracion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Policíaco"
+    ],
+    "synopsis": "Un detective privado investiga un supuesto adulterio en el Los Ángeles de los años treinta. El encargo descubre una red de corrupción, intereses económicos y secretos familiares.",
+    "watch": "https://www.justwatch.com/es/pelicula/chinatown",
+    "review": ""
+  },
+  {
+    "id": 28,
+    "title": "FUEGO EN EL CUERPO",
+    "country": "USA",
+    "year": 1981,
+    "director": "Lawrence Kasdan",
+    "actors": "William Hurt, Kathleen Turner",
+    "poster": "https://es.static.webuy.com/product_images/DVD/DVD%20Peliculas/8436558190429_l.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "familiar"
+    ],
+    "tone": [
+      "thriller",
+      "erotico"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un abogado inicia un romance con la esposa de un empresario rico durante una ola de calor. La pasión da paso a una conspiración para cometer un asesinato.",
+    "watch": "https://www.justwatch.com/es/pelicula/fuego-en-el-cuerpo",
+    "review": ""
+  },
+  {
+    "id": 29,
+    "title": "BLADE RUNNER",
+    "country": "USA",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "actors": "Harrison Ford, Rutger Hauer, Daryl Hannah",
+    "poster": "https://play-lh.googleusercontent.com/vsfxZO2Kea5mYvyCrwb_9_1yjGtNK76FaZiYjSGDkF3wV3sCP-We98sFOHNajqov6h-AlizNC0vKzBAy5BKp",
+    "posterAlternativo": "",
+    "crime": [
+      "conspiracion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un expolicía trabaja como cazador de replicantes en un Los Ángeles futurista. La investigación desdibuja la frontera entre humanidad, identidad y memoria.",
+    "watch": "https://www.justwatch.com/es/pelicula/blade-runner",
+    "review": ""
+  },
+  {
+    "id": 30,
+    "title": "SANGRE FÁCIL",
+    "country": "USA",
+    "year": 1984,
+    "director": "Hermanos Coen",
+    "actors": "John Getz, Frances McDormand",
+    "poster": "https://images.justwatch.com/poster/316184068/s166/sangre-facil.avif",
+    "posterAlternativo": "",
+    "crime": [
+      "familiar"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un propietario de bar sospecha que su esposa le engaña y contrata a un detective privado. La cadena de engaños y decisiones equivocadas acaba teñida de sangre.",
+    "watch": "https://www.justwatch.com/es/pelicula/sangre-facil",
+    "review": ""
+  },
+  {
+    "id": 31,
+    "title": "ATRACCIÓN FATAL",
+    "country": "USA",
+    "year": 1987,
+    "director": "Adrian Lyne",
+    "actors": "Michael Douglas, Glenn Close",
+    "poster": "https://es.web.img3.acsta.net/medias/nmedia/18/79/25/14/20531352.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "familiar"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Una mujer intenta poner fin a una relación extramatrimonial, pero su amante se niega a aceptar la ruptura y comienza a acosar a su familia.",
+    "watch": "https://www.justwatch.com/es/pelicula/atraccion-fatal",
+    "review": ""
+  },
+  {
+    "id": 32,
+    "title": "LA JUNGLA DE CRISTAL",
+    "country": "USA",
+    "year": 1988,
+    "director": "John McTiernan",
+    "actors": "Bruce Willis, Alan Rickman",
+    "poster": "https://pics.filmaffinity.com/Jungla_de_cristal-951170652-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "atraco"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Un policía fuera de servicio visita a su esposa en un rascacielos de Los Ángeles cuando un grupo armado toma el edificio y retiene a los asistentes.",
+    "watch": "https://www.justwatch.com/es/pelicula/jungla-de-cristal",
+    "review": ""
+  },
+  {
+    "id": 33,
+    "title": "EL SILENCIO DE LOS CORDEROS",
+    "country": "USA",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "actors": "Jodie Foster, Anthony Hopkins",
+    "poster": "https://es.web.img3.acsta.net/medias/nmedia/18/74/29/15/19757760.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Thriller criminal",
+      "Policíaco"
+    ],
+    "synopsis": "Una joven agente del FBI recurre a un psiquiatra y asesino encarcelado para intentar detener a otro criminal que secuestra y mata mujeres.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-silencio-de-los-corderos",
+    "review": ""
+  },
+  {
+    "id": 34,
+    "title": "FARGO",
+    "country": "USA",
+    "year": 1996,
+    "director": "Hermanos Coen",
+    "actors": "Frances McDormand",
+    "poster": "https://es.web.img3.acsta.net/medias/nmedia/18/67/73/60/20141531.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "desaparicion"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Un vendedor de coches desesperado organiza el secuestro de su esposa para cobrar un rescate. La intervención de unos criminales torpes desencadena una espiral de violencia.",
+    "watch": "https://www.justwatch.com/es/pelicula/fargo",
+    "review": ""
+  },
+  {
+    "id": 35,
+    "title": "SEVEN (SE7EN)",
+    "country": "USA",
+    "year": 1995,
+    "director": "David Fincher",
+    "actors": "Brad Pitt, Morgan Freeman",
+    "poster": "https://m.media-amazon.com/images/I/71ShGTVJy4L._AC_UF894,1000_QL80_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Thriller criminal",
+      "Policíaco"
+    ],
+    "synopsis": "Dos detectives investigan una serie de asesinatos inspirados en los siete pecados capitales. Cada nueva escena del crimen les aproxima a un desenlace devastador.",
+    "watch": "https://www.justwatch.com/es/pelicula/seven",
+    "review": ""
+  },
+  {
+    "id": 36,
+    "title": "L.A. CONFIDENTIAL",
+    "country": "USA",
+    "year": 1997,
+    "director": "Curtis Hanson",
+    "actors": "Russell Crowe, Guy Pearce",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAhTjNvyBVv6eznwxaQI6Vp075Y8Iwl5AyA&s",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Policíaco"
+    ],
+    "synopsis": "Tres policías de Los Ángeles investigan un crimen que destapa corrupción, escándalos y negocios turbios bajo el brillo del Hollywood de los cincuenta.",
+    "watch": "https://www.justwatch.com/es/pelicula/l-a-confidential",
+    "review": ""
+  },
+  {
+    "id": 37,
+    "title": "NO ES PAÍS PARA VIEJOS",
+    "country": "USA",
+    "year": 2007,
+    "director": "Hermanos Coen",
+    "actors": "Javier Bardem, Tommy Lee Jones",
+    "poster": "https://pics.filmaffinity.com/No_es_paais_para_viejos-847964252-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un cazador encuentra el botín de una operación de narcotráfico fallida y desata la persecución de un asesino implacable en la frontera de Texas.",
+    "watch": "https://www.justwatch.com/es/pelicula/no-es-pais-para-viejos",
+    "review": ""
+  },
+  {
+    "id": 38,
+    "title": "PARÁSITOS",
+    "country": "Corea del Sur",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "actors": "Song Kang-ho, Lee Sun-kyun",
+    "poster": "https://www.cinemamalda.com/wp-content/uploads/PARASITOS.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "conspiracion"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Una familia pobre consigue infiltrarse poco a poco en el hogar de una familia adinerada. El plan para mejorar su situación se convierte en una sátira social oscura.",
+    "watch": "https://www.justwatch.com/es/pelicula/parasitos",
+    "review": ""
+  },
+  {
+    "id": 39,
+    "title": "THE BATMAN",
+    "country": "USA",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "actors": "Robert Pattinson, Zoë Kravitz",
+    "poster": "https://static.posters.cz/image/350/posters/the-batman-2022-i124463.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Policíaco",
+      "Thriller criminal"
+    ],
+    "synopsis": "En Gotham, un vigilante enmascarado investiga los crímenes de un asesino que deja acertijos y mensajes contra las élites de la ciudad.",
+    "watch": "https://www.justwatch.com/es/pelicula/the-batman",
+    "review": ""
+  },
+  {
+    "id": 40,
+    "title": "CAMINO A LA PERDICIÓN",
+    "country": "USA",
+    "year": 2002,
+    "director": "Sam Mendes",
+    "actors": "Tom Hanks, Paul Newman, Jude Law",
+    "poster": "https://play-lh.googleusercontent.com/S-xLRAoTyG3prx4jvxyMqzND5SOtnYHgTENP0aJGmCdOopEcdWpchL8--NV7JdhKFbVrjA",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un sicario que trabaja para la mafia durante la Gran Depresión huye con su hijo después de que una traición convierta a su propia organización en enemiga.",
+    "watch": "https://www.justwatch.com/es/pelicula/camino-a-la-perdicion",
+    "review": ""
+  },
+  {
+    "id": 41,
+    "title": "RESERVOIR DOGS",
+    "country": "USA",
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "actors": "Harvey Keitel, Tim Roth, Michael Madsen",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFhYjU2MGQtN2VlZi00OGJmLTg4ZGYtOWY5MWQ4NjFhNzljXkEyXkFqcGc@._V1_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "atraco"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Un atraco a una joyería termina en desastre. Los supervivientes sospechan que hay un infiltrado y se enfrentan entre sí en un almacén.",
+    "watch": "https://www.justwatch.com/es/pelicula/reservoir-dogs",
+    "review": ""
+  },
+  {
+    "id": 42,
+    "title": "RETORNO AL PASADO",
+    "country": "USA",
+    "year": 1947,
+    "director": "Jacques Tourneur",
+    "actors": "Robert Mitchum, Jane Greer, Kirk Douglas",
+    "poster": "https://pics.filmaffinity.com/out_of_the_past-955399232-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "desaparicion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Policíaco"
+    ],
+    "synopsis": "Un detective retirado intenta dejar atrás su pasado, pero un antiguo encargo y una mujer misteriosa lo arrastran otra vez a una trama de chantajes y traiciones.",
+    "watch": "https://www.justwatch.com/es/pelicula/regreso-al-pasado",
+    "review": ""
+  },
+  {
+    "id": 43,
+    "title": "15 MINUTOS",
+    "country": "USA",
+    "year": 2001,
+    "director": "John Herzfeld",
+    "actors": "Robert De Niro, Edward Burns",
+    "poster": "https://peliculas.lavanguardia.com/imagenes/w500/1Mz8cz471FJvQWhOImZuZbwDRp2.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesino"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "Dos asesinos atraídos por la fama mediática convierten sus crímenes en espectáculo. Un policía intenta detenerlos en una Nueva York fascinada por la violencia televisada.",
+    "watch": "https://www.justwatch.com/es/pelicula/15-minutes",
+    "review": ""
+  },
+  {
+    "id": 44,
+    "title": "INSTINTO BÁSICO",
+    "country": "USA",
+    "year": 1992,
+    "director": "Paul Verhoeven",
+    "actors": "Michael Douglas, Sharon Stone",
+    "poster": "https://es.web.img2.acsta.net/medias/nmedia/18/76/35/68/20432773.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "psicologico",
+      "erotico"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un policía investiga un asesinato mientras mantiene una relación apasionada con la principal sospechosa, una novelista que parece anticipar los crímenes en sus libros.",
+    "watch": "https://www.justwatch.com/es/pelicula/instinto-basico",
+    "review": ""
+  },
+  {
+    "id": 45,
+    "title": "EL OJO PÚBLICO",
+    "country": "USA",
+    "year": 1992,
+    "director": "Howard Franklin",
+    "actors": "Joe Pesci, Barbara Hershey, Stanley Tucci",
+    "poster": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/95/90/07/20433114.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "conspiracion"
+    ],
+    "tone": [
+      "investigacion"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Policíaco"
+    ],
+    "synopsis": "Un fotógrafo de sucesos en el Nueva York de los años cuarenta retrata la violencia urbana y se implica en un caso que lo acerca a peligrosos intereses criminales.",
+    "watch": "https://www.justwatch.com/es/pelicula/the-public-eye",
+    "review": ""
+  },
+  {
+    "id": 46,
+    "title": "EL EXTRAÑO VIAJE",
+    "country": "España",
+    "year": 1964,
+    "director": "F. Fernán Gómez",
+    "actors": "Carlos Larrañaga, Tota Alba, Lina Canalejas",
+    "poster": "https://pics.filmaffinity.com/El_extraano_viaje-952241017-large.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "familiar"
+    ],
+    "tone": [
+      "humor"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "En un pueblo español de provincias, la desaparición de una mujer desencadena una investigación que revela secretos, resentimientos y un peculiar humor macabro.",
+    "watch": "https://www.justwatch.com/es/pelicula/el-extrano-viaje",
+    "review": ""
+  },
+  {
+    "id": 47,
+    "title": "AGENTE 007 CONTRA EL DR. NO",
+    "country": "Reino Unido",
+    "year": 1962,
+    "director": "Terence Young",
+    "actors": "Sean Connery, Ursula Andress, Joseph Wiseman",
+    "poster": "https://upload.wikimedia.org/wikipedia/ca/thumb/2/2b/007DrNoposter2.jpg/250px-007DrNoposter2.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "espionaje",
+      "conspiracion"
+    ],
+    "tone": [
+      "thriller",
+      "investigacion"
+    ],
+    "genres": [
+      "Thriller criminal"
+    ],
+    "synopsis": "James Bond viaja a Jamaica para investigar la desaparición de un agente británico y descubre una amenaza relacionada con una misteriosa isla.",
+    "watch": "https://www.justwatch.com/es/pelicula/agente-007-contra-el-dr-no",
+    "review": ""
+  },
+  {
+    "id": 48,
+    "title": "CHANTAJE EN BROADWAY",
+    "country": "USA",
+    "year": 1957,
+    "director": "Alexander Mackendrick",
+    "actors": "Burt Lancaster, Tony Curtis",
+    "poster": "https://pics.filmaffinity.com/Chantaje_en_Broadway-343443760-mmed.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "corrupcion"
+    ],
+    "tone": [
+      "psicologico"
+    ],
+    "genres": [
+      "Cine negro clásico",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un poderoso columnista neoyorquino utiliza a un agente de prensa sin escrúpulos para destruir la relación sentimental de su hermana.",
+    "watch": "https://www.justwatch.com/es/pelicula/chantaje-en-broadway",
+    "review": ""
+  },
+  {
+    "id": 49,
+    "title": "YAKUZA",
+    "country": "USA",
+    "year": 1974,
+    "director": "Sydney Pollack",
+    "actors": "Robert Mitchum, Ken Takakura",
+    "poster": "https://media-cache.cinematerial.com/p/500x/cbl44eru/the-yakuza-movie-poster.jpg?v=1456819517",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia",
+      "desaparicion",
+      "venganza"
+    ],
+    "tone": [
+      "thriller"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Thriller criminal"
+    ],
+    "synopsis": "Un antiguo militar estadounidense viaja a Japón para rescatar a la hija secuestrada de un amigo. La misión lo enfrenta a un mundo de códigos de honor y crimen organizado.",
+    "watch": "https://www.justwatch.com/es/pelicula/yakuza",
+    "review": ""
+  },
+  {
+    "id": 50,
+    "title": "BLACK RAIN",
+    "country": "USA",
+    "year": 1989,
+    "director": "Ridley Scott",
+    "actors": "Michael Douglas, Andy Garcia, Ken Takakura",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIzNTAzN2EtNjY2ZC00MmFjLWJjMmEtOTY5MGFlYTgwYWUyXkEyXkFqcGc@._V1_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "mafia",
+      "caza"
+    ],
+    "tone": [
+      "thriller",
+      "investigacion"
+    ],
+    "genres": [
+      "Gánsteres",
+      "Policíaco"
+    ],
+    "synopsis": "Dos policías estadounidenses persiguen a un criminal japonés hasta Osaka, donde chocan con la policía local y las organizaciones de la yakuza.",
+    "watch": "https://www.justwatch.com/es/pelicula/black-rain",
+    "review": ""
+  },
+  {
+    "id": 51,
+    "title": "12 HOMBRES SIN PIEDAD",
+    "country": "USA",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "actors": "Henry Fonda, Lee J. Cobb, E.G. Marshall",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThhOGFhODktNGEwNi00MzY2LTg3YWYtNzAzZTE0MTFlMWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato",
+      "familiar"
+    ],
+    "tone": [
+      "judicial",
+      "psicologico"
+    ],
+    "genres": [
+      "Drama judicial"
+    ],
+    "synopsis": "Doce miembros de un jurado deliberan sobre la culpabilidad de un joven acusado de matar a su padre. La única voz disidente obliga a revisar las pruebas y los prejuicios.",
+    "watch": "https://www.justwatch.com/es/pelicula/12-hombres-sin-piedad",
+    "review": ""
+  },
+  {
+    "id": 52,
+    "title": "TESTIGO DE CARGO",
+    "country": "USA",
+    "year": 1957,
+    "director": "Billy Wilder",
+    "actors": "Tyrone Power, Marlene Dietrich, Charles Laughton",
+    "poster": "https://cdn.sincroguia.tv/uploads/programs/t/e/s/testigo-de-cargo-poster-35511_SPA-87_V.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "asesinato"
+    ],
+    "tone": [
+      "judicial",
+      "investigacion"
+    ],
+    "genres": [
+      "Drama judicial",
+      "Cine negro clásico"
+    ],
+    "synopsis": "Un hombre es acusado de asesinar a una viuda adinerada. Su defensa depende de una testigo sorprendente y de los giros de un juicio lleno de engaños.",
+    "watch": "https://www.justwatch.com/es/pelicula/testigo-de-cargo",
+    "review": ""
+  },
+  {
+    "id": 53,
+    "title": "MULHOLLAND DRIVE",
+    "country": "USA",
+    "year": 2001,
+    "director": "David Lynch",
+    "actors": "Naomi Watts, Laura Harring",
+    "poster": "https://www.otraparte.org/wp-content/uploads/mulholland-drive-1.jpg",
+    "posterAlternativo": "",
+    "crime": [
+      "desaparicion",
+      "conspiracion"
+    ],
+    "tone": [
+      "psicologico",
+      "investigacion"
+    ],
+    "genres": [
+      "Neo-noir",
+      "Thriller criminal"
+    ],
+    "synopsis": "Una mujer llega a Los Ángeles para convertirse en actriz y conoce a otra que ha perdido la memoria. Su búsqueda de respuestas se transforma en una historia de identidades y sueños inquietantes.",
+    "watch": "https://www.justwatch.com/es/pelicula/mulholland-drive",
+    "review": ""
+  }
+]
