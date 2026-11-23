@@ -1,0 +1,439 @@
+{
+  "revisado_utc": "2026-11-23T08:54:38.272143+00:00",
+  "advertencia": "403/429 pueden ser bloqueos a robots, no prueban que la imagen no aparezca en el navegador.",
+  "total": 54,
+  "resultados": [
+    {
+      "pelicula": "EL PADRINO",
+      "url": "https://kolorofon.departament.org/wp-content/uploads/2024/08/Plakaty-filmowe-klasyka-kina-Ojciec-chrzestny-1972-The-Godfather-Czarna-wersja-Plakat-wysokiej-jakosci-8K--scaled-scaled.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "PULP FICTION",
+      "url": "https://static.posters.cz/image/750/1288.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "BULLET TRAIN",
+      "url": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/08/Bullet_train_filme.jpg/250px-Bullet_train_filme.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "The Last Stop in Yuma County",
+      "url": "https://m.media-amazon.com/images/M/MV5BZmVjZGZjOGItMjIxOS00MDI2LWEyNmMtMDVjZjQ1NmUzM2M3XkEyXkFqcGc@._V1_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "HAMPA DORADA",
+      "url": "https://masqcine.com/wp-content/uploads/Hampa_dorada.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL ENEMIGO PÚBLICO",
+      "url": "https://www.filmsite.org/posters/publicenemy2.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "M, EL VAMPIRO DE DÜSSELDORF",
+      "url": "https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/0/0/8421394539006/tsp20121213111210/M-el-vampiro-de-Dueldorf.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "SCARFACE, EL TERROR DEL HAMPA",
+      "url": "https://pics.filmaffinity.com/scarface-577051853-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL HALCÓN MALTÉS",
+      "url": "https://es.web.img2.acsta.net/pictures/14/03/28/11/32/037353.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "PERDICIÓN",
+      "url": "https://m.media-amazon.com/images/I/714kvaQTnHL._AC_UF894,1000_QL80_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA CIUDAD DESNUDA",
+      "url": "https://pics.filmaffinity.com/the_naked_city-240408651-mmed.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EN UN LUGAR SOLITARIO",
+      "url": "https://elgabinetedeldoctormabuse.com/wp-content/uploads/2013/09/un-lugar-solitario.jpg?w=640",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA JUNGLA DE ASFALTO",
+      "url": "https://pics.filmaffinity.com/the_asphalt_jungle-967610208-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "MUERTE DE UN CICLISTA",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTIwNTFlNTItYTEwYy00YWI3LTkxMTMtY2M0YmNmOGY3ZGZjXkEyXkFqcGc@._V1_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "ATRACO PERFECTO",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtJM8Xj1BxiwsGSgma49pg1n-3aJmK8HmVQ&s",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA NOCHE DEL CAZADOR",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoKus50TVlBlSFlo_3bwB-0oNL35PsZH4bg&s",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "SED DE MAL",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Touch_of_Evil_%281958_poster%29.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "PSICOSIS",
+      "url": "https://m.media-amazon.com/images/I/71X1flEKNdL._AC_UF894,1000_QL80_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "A QUEMARROPA",
+      "url": "https://es.web.img3.acsta.net/pictures/210/610/21061084_20131126155146818.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL SILENCIO DE UN HOMBRE",
+      "url": "https://m.media-amazon.com/images/S/pv-target-images/c2c00f97df9c678a15205f05b2030ee77eb2b953ad4e30601ef8bef55cb3b89d.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "BULLITT",
+      "url": "https://pics.filmaffinity.com/Bullitt-157088363-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA JUNGLA HUMANA",
+      "url": "https://decine21.com/img/upload/obras/la-jungla-humana-3967/la-jungla-humana-3967-c.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "INVESTIGACIÓN SOBRE UN CIUDADANO LIBRE DE TODA SOSPECHA",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjhjMGJhZmMtZDcyNi00YjE0LWJkNmQtMTAzZTAxNmQ1N2U5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA JAURÍA HUMANA",
+      "url": "https://es.web.img3.acsta.net/pictures/14/02/06/13/23/203756.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "HARRY EL SUCIO",
+      "url": "https://es.web.img2.acsta.net/pictures/210/589/21058908_20131119111719452.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "THE FRENCH CONNECTION",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/frnchconnection_d4fbbbda.jpeg?region=0%2C0%2C584%2C876",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "SERPICO",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgb__5bADThOVoeuEzInAiD0rAALa__oUbPg&s",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "CHINATOWN",
+      "url": "https://m.media-amazon.com/images/I/91IuEDS4sWL._AC_UF894,1000_QL80_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "FUEGO EN EL CUERPO",
+      "url": "https://es.static.webuy.com/product_images/DVD/DVD%20Peliculas/8436558190429_l.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "BLADE RUNNER",
+      "url": "https://play-lh.googleusercontent.com/vsfxZO2Kea5mYvyCrwb_9_1yjGtNK76FaZiYjSGDkF3wV3sCP-We98sFOHNajqov6h-AlizNC0vKzBAy5BKp",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/png",
+      "detalle": ""
+    },
+    {
+      "pelicula": "SANGRE FÁCIL",
+      "url": "https://images.justwatch.com/poster/316184068/s166/sangre-facil.avif",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/avif",
+      "detalle": ""
+    },
+    {
+      "pelicula": "ATRACCIÓN FATAL",
+      "url": "https://es.web.img3.acsta.net/medias/nmedia/18/79/25/14/20531352.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "LA JUNGLA DE CRISTAL",
+      "url": "https://pics.filmaffinity.com/Jungla_de_cristal-951170652-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL SILENCIO DE LOS CORDEROS",
+      "url": "https://es.web.img3.acsta.net/medias/nmedia/18/74/29/15/19757760.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "FARGO",
+      "url": "https://es.web.img3.acsta.net/medias/nmedia/18/67/73/60/20141531.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "SEVEN (SE7EN)",
+      "url": "https://m.media-amazon.com/images/I/71ShGTVJy4L._AC_UF894,1000_QL80_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "L.A. CONFIDENTIAL",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAhTjNvyBVv6eznwxaQI6Vp075Y8Iwl5AyA&s",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "NO ES PAÍS PARA VIEJOS",
+      "url": "https://pics.filmaffinity.com/No_es_paais_para_viejos-847964252-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "PARÁSITOS",
+      "url": "https://www.cinemamalda.com/wp-content/uploads/PARASITOS.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "THE BATMAN",
+      "url": "https://static.posters.cz/image/350/posters/the-batman-2022-i124463.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "CAMINO A LA PERDICIÓN",
+      "url": "https://play-lh.googleusercontent.com/S-xLRAoTyG3prx4jvxyMqzND5SOtnYHgTENP0aJGmCdOopEcdWpchL8--NV7JdhKFbVrjA",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "RESERVOIR DOGS",
+      "url": "https://m.media-amazon.com/images/M/MV5BMzFhYjU2MGQtN2VlZi00OGJmLTg4ZGYtOWY5MWQ4NjFhNzljXkEyXkFqcGc@._V1_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "RETORNO AL PASADO",
+      "url": "https://pics.filmaffinity.com/out_of_the_past-955399232-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "15 MINUTOS",
+      "url": "https://peliculas.lavanguardia.com/imagenes/w500/1Mz8cz471FJvQWhOImZuZbwDRp2.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "INSTINTO BÁSICO",
+      "url": "https://es.web.img2.acsta.net/medias/nmedia/18/76/35/68/20432773.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL OJO PÚBLICO",
+      "url": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/95/90/07/20433114.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "EL EXTRAÑO VIAJE",
+      "url": "https://pics.filmaffinity.com/El_extraano_viaje-952241017-large.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "AGENTE 007 CONTRA EL DR. NO",
+      "url": "https://upload.wikimedia.org/wikipedia/ca/thumb/2/2b/007DrNoposter2.jpg/250px-007DrNoposter2.jpg",
+      "estado": "bloqueado_o_antibot",
+      "http": "429",
+      "tipo": "",
+      "detalle": "Too many requests (f061ab2)"
+    },
+    {
+      "pelicula": "CHANTAJE EN BROADWAY",
+      "url": "https://pics.filmaffinity.com/Chantaje_en_Broadway-343443760-mmed.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "YAKUZA",
+      "url": "https://media-cache.cinematerial.com/p/500x/cbl44eru/the-yakuza-movie-poster.jpg?v=1456819517",
+      "estado": "bloqueado_o_antibot",
+      "http": "403",
+      "tipo": "",
+      "detalle": "Forbidden"
+    },
+    {
+      "pelicula": "BLACK RAIN",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzIzNTAzN2EtNjY2ZC00MmFjLWJjMmEtOTY5MGFlYTgwYWUyXkEyXkFqcGc@._V1_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "12 HOMBRES SIN PIEDAD",
+      "url": "https://m.media-amazon.com/images/M/MV5BYThhOGFhODktNGEwNi00MzY2LTg3YWYtNzAzZTE0MTFlMWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    },
+    {
+      "pelicula": "TESTIGO DE CARGO",
+      "url": "https://mx.web.img3.acsta.net/pictures/14/10/22/14/50/588346.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/webp",
+      "detalle": ""
+    },
+    {
+      "pelicula": "MULHOLLAND DRIVE",
+      "url": "https://www.otraparte.org/wp-content/uploads/mulholland-drive-1.jpg",
+      "estado": "ok",
+      "http": "200",
+      "tipo": "image/jpeg",
+      "detalle": ""
+    }
+  ]
+}
